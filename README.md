@@ -21,6 +21,6 @@ This repository contains a responsive Welcome Page built using HTML5 and CSS3. I
 
 Clone the repository and open index.html in your browser to view the welcome page.
 
-git clone https://github.com/your-username/demo-welcome-page.git
+git clone https://github.com/Gloriane7767/demo-welcome-page.git
 
 Feel free to fork, customize, or integrate this into your own projects.
